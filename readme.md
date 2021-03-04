@@ -8,4 +8,3 @@ Olá! Bem vindo ao meu livro de receita.
 
 - Lasanha e Dobradinha
 
-  
